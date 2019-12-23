@@ -1,0 +1,4 @@
+STA 0c
+LDA 00
+LDCH 50
+STCH 54
